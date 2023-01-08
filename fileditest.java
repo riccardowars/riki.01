@@ -1,6 +1,7 @@
-public class bho{
+public class fileditest{
   double a;
-  public int ciao(){
+  public fileditest (){
+
     this.a=19;
   }
   
