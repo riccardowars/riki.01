@@ -2,7 +2,7 @@ public class fileditest{
   double a;
   public fileditest (){
 
-    this.a=19;
+    this.a=18;
   }
   
 }
